@@ -1,0 +1,1 @@
+#un piccolo esercizio per cominciare php ! uso str_len per misurare la lunghezza del mio paragrafo ed str_replace per modificarne una porzione con 3 ***
